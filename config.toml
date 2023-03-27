@@ -9,9 +9,10 @@ enableRobotsTXT = true
 
 [params]
 title = "aurora."
-author = "roraosu,"
+author = "roraosu"
 description = "Scanlator, Gamer, Creator"
 profilePicture = "images/profile.jpg"
+hidesidebar = true
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
