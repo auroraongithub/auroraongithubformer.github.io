@@ -25,9 +25,14 @@ title = "Discord"
 url = "https://dsc.gg/evescans/"
 
 [[params.socialIcons]]
-icon = "fas fa-user"
-title = "About"
-url = "https://nijika.de/"
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/auroraongithub"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/twit_aurora"
 
 [menu]
 
@@ -48,3 +53,9 @@ url = "https://nijika.de/"
   weight = 200
   identifier = "blog"
   url = "/blog/"
+
+    [[menu.main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "https://nijika.de/"
