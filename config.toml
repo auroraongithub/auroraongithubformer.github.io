@@ -1,0 +1,49 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Home'
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+title = "aurora."
+author = "roraosu,"
+description = "Scanlator, Gamer, Creator"
+profilePicture = "images/profile.jpg"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail"
+url = "mailto:chompajamas@gmail.com"
+
+[[params.socialIcons]]
+icon = "fab fa-discord"
+title = "Discord"
+url = "https://dsc.gg/evescans/"
+
+[[params.socialIcons]]
+icon = "fas fa-user"
+title = "About"
+url = "https://nijika.de/"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Stories"
+  weight = 300
+  identifier = "stories"
+  url = "/stories/"
+
+  [[menu.main]]
+  name = "Blogs"
+  weight = 200
+  identifier = "blog"
+  url = "/blog/"
