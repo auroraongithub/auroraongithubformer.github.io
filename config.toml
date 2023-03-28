@@ -13,6 +13,7 @@ author = "roraosu"
 description = "Scanlator, Gamer, Creator"
 profilePicture = "images/profile.jpg"
 hidesidebar = true
+customCss = ["css/list-title.css"]
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"

@@ -11,10 +11,7 @@ draft= false
 
 +++
 
-Step-by-step guide on how to be removed from Lou's List
-
 Did you do something to offend Lou? Did she add you to her "list"? Look no further, here is a step-by-step guide to never have your name in her list ever again with these three easy steps!
-
 
 1. Get in touch with Lou
 
@@ -23,7 +20,6 @@ Did you do something to offend Lou? Did she add you to her "list"? Look no furth
 "Paki remove ko sa listahan nimo Lou please thank you"
 
 3. Profit
-
 
 Disclaimer:
 
