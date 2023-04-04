@@ -15,7 +15,7 @@ draft= false
 
 is the word I would use if I had to describe the entire game.
 
-"Mankind is dead. Blood is fuel. Hell is full." is the game's starting "quote". Not sure if it means something deeper than that, like Hell being alive and full after being hungry or something, or maybe something simpler like you (the player/machine "V1") literally eradicating mankind and you need more blood to stay alive and since there's still Hell, you end up going in there, or something like that (just a theory lol). But you're definitely gonna be full once you touch this game because goddamn is it complicated, and in a good way too. 
+"Mankind is dead. Blood is fuel. Hell is full." is the game's starting "quote". Not sure if it means something deeper than that, like Hell being alive and full after being hungry or something, or maybe something simpler like you (the player/machine "V1") literally eradicating mankind and you need more blood to stay alive and since there's still Hell, you end up going in there, or something like that ~~(just a shower thought lol)~~ **(WAIT NEVERMIND MY FRIEND SAID ITS CORRECT HAHAHAHAH)**. But you're definitely gonna be full once you touch this game because goddamn is it complicated, and in a good way too. 
 
 Anyways, the game starts off in a tutorial, where some basic stuff like dashing, sliding, punching/parrying, how to heal, and all that stuff are taught. Then it throws you into a bunch of levels, encouraging you to use most of your loadout to its fullest. I had an experienced ULTRAKILL player friend that guided me throughout the first levels (and literally almost the rest of the game), so I had it pretty easy. 
 
@@ -34,3 +34,5 @@ ULTRAKILL lets players do things that they might not expect to be able to do. Th
 The level design is also top-notch, with each level featuring its own unique theme and set of challenges. From abandoned factories to literally egypt with the Big Ben just laying around the sand, each level is a visually stunning and immersive experience that keeps you engaged from start to finish.
 
 Overall, ULTRAKILL is an incredibly challenging and rewarding experience that any fan of fast-paced first-person shooters should check out. Or even if you're not into that genre yet, like me, it's still worth a try. The game's complex mechanics, deep gameplay systems, and story make it a standout title in the genre, and its intense soundtracks only add to the overall experience.
+
+(also I only have 32 hours in the game so make of that what you will lol)
