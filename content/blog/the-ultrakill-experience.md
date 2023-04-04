@@ -1,0 +1,32 @@
++++
+author = "aurora."
+title = "The ULTRAKILL™ Experience"
+date = "2023-04-04"
+description = "Unfortunately, Gabriel gets pegged."
+tags = [
+    "gaming",
+]
+
+draft= false
+
++++
+
+# Exhilarating,
+
+is the word I would use if I had to describe the entire game.
+
+"Mankind is dead. Blood is fuel. Hell is full." is the game's starting "quote". Not sure if it means something deeper than that, like Hell being alive and full after being hungry or something, or maybe something simpler like you (the player/machine "V1") literally eradicating mankind and you need more blood to stay alive and since there's still Hell, you end up going in there, or something like that (just a theory lol). But you're definitely gonna be full once you touch this game because goddamn is it complicated, and in a good way too. 
+
+Anyways, the game starts off in a tutorial, where some basic stuff like dashing, sliding, punching/parrying, how to heal, and all that stuff are taught. Then it throws you into a bunch of levels, encouraging you to use most of your loadout to its fullest. I had an experienced ULTRAKILL player friend that guided me throughout the first levels (and literally almost the rest of the game), so I had it pretty easy. 
+
+However, even with my friend's guidance, the game still managed to be challenging and kept me on my toes. The gameplay is fast-paced and unforgiving, with enemies that can kill you in a matter of seconds if you're not careful. The only way to survive is to constantly move, dodge, and shoot your way through hordes of demonic enemies.
+
+One of the standout features of ULTRAKILL is its movement system. The game encourages constant movement and rewards players who can master its unique movement mechanics. The player character, V1, can literally spam slide, dash, and jump to avoid barrages of attacks (and even make them ineffective because i-frames from dashing) and navigate through levels incredibly fast.
+
+What sets ULTRAKILL apart from other shooters is its unique game mechanics and tech. The game features a wide range of possibilities and combinations that allow players to approach combat in a variety of ways. From railcoining (a technique that allows players to shoot a coin behind the enemy and in front of the enemy *which is optional*, and then shooting the coin behind the enemy with a railgun so that the railgun hits twice or even thrice if you threw the second coin), to slam storage (which tricks the game that you're still in the slam state by slamming then wall jumping near a wall, and allows you to accelerate incredibly fast either horizontally or vertically), ULTRAKILL just gives players a vast arsenal of combinations to work and experiment with. It's just one example of how the game encourages players to try  different techniques and discover new ways to take out enemies (and clear levels super fast).
+
+ULTRAKILL lets players do things that they might not expect to be able to do. The moment I found out you could literally punch shotgun shells and that they do AOE damage, I instantly started using it without mercy. If you can think of something you want to do, you can probably do it. This sense of freedom and experimentation is a big part of what makes ULTRAKILL so exciting to play. It allows using the environment to your advantage or coming up with creative ways to take out enemies, so there's always room for experimentation and discovery.
+
+The level design is also top-notch, with each level featuring its own unique theme and set of challenges. From abandoned factories to literally egypt with the Big Ben just laying around the sand, each level is a visually stunning and immersive experience that keeps you engaged from start to finish.
+
+Overall, ULTRAKILL is an incredibly challenging and rewarding experience that any fan of fast-paced first-person shooters should check out. Or even if you're not into that genre yet, like me, it's still worth a try. The game's complex mechanics, deep gameplay systems, and story make it a standout title in the genre, and its intense soundtracks and only add to the overall experience.
