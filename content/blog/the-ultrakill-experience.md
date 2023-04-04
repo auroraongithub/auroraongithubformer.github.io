@@ -19,7 +19,7 @@ is the word I would use if I had to describe the entire game.
 
 Anyways, the game starts off in a tutorial, where some basic stuff like dashing, sliding, punching/parrying, how to heal, and all that stuff are taught. Then it throws you into a bunch of levels, encouraging you to use most of your loadout to its fullest. I had an experienced ULTRAKILL player friend that guided me throughout the first levels (and literally almost the rest of the game), so I had it pretty easy. 
 
-However, even with my friend's guidance, the game still managed to be challenging and kept me on my toes. The gameplay is fast-paced and unforgiving, with enemies that can kill you in a matter of seconds if you're not careful. The only way to survive is to constantly move, dodge, and shoot your way through hordes of demonic enemies.
+However, even with my friend's guidance, the game still managed to be challenging and kept me on my toes. The gameplay is fast-paced and pretty unforgiving (even if I was playing on standard), with enemies that can kill you in a matter of seconds if you're not careful. The only way to survive is to constantly move, dodge, and shoot your way through hordes of demonic enemies.
 
 One of the standout features of ULTRAKILL is its movement system. The game encourages constant movement and rewards players who can master its unique movement mechanics. The player character, V1, can literally spam slide, dash, and jump to avoid barrages of attacks (and even make them ineffective because i-frames from dashing) and navigate through levels incredibly fast.
 
@@ -29,4 +29,4 @@ ULTRAKILL lets players do things that they might not expect to be able to do. Th
 
 The level design is also top-notch, with each level featuring its own unique theme and set of challenges. From abandoned factories to literally egypt with the Big Ben just laying around the sand, each level is a visually stunning and immersive experience that keeps you engaged from start to finish.
 
-Overall, ULTRAKILL is an incredibly challenging and rewarding experience that any fan of fast-paced first-person shooters should check out. Or even if you're not into that genre yet, like me, it's still worth a try. The game's complex mechanics, deep gameplay systems, and story make it a standout title in the genre, and its intense soundtracks and only add to the overall experience.
+Overall, ULTRAKILL is an incredibly challenging and rewarding experience that any fan of fast-paced first-person shooters should check out. Or even if you're not into that genre yet, like me, it's still worth a try. The game's complex mechanics, deep gameplay systems, and story make it a standout title in the genre, and its intense soundtracks only add to the overall experience.
