@@ -5,7 +5,7 @@ date: 2019-04-08
 description: Milestones
 ---
 
-## osu! Milestones
+**osu! Milestones**
 
 - Reached 5kPP in 12/15/2020
 
