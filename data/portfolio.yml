@@ -1,0 +1,12 @@
+portfolioitems:
+  # portfolio category
+  - title: Projects
+    portfolioitem:
+      - name: osu! Offline Switcher
+        image: '/images/portfolio/offlineswitcher.png'
+        link: https://github.com/auroraongithub/osu-Offline-Switcher
+        linktext: 'Visit Repository'
+        description: "A simple offline/online switcher for osu!. Uses firewall rules to block and unblock connection to Bancho. Has a Batch GUI version (originally based from **[Nameless Player](https://osu.ppy.sh/users/4133758)**'s switcher). Updated to use C# (WinForms)"
+        status: 'Finished'
+        start: 'January 2022'
+        end: 'February 2022'

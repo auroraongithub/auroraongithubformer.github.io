@@ -14,6 +14,7 @@ description = "Scanlator, Gamer, Creator"
 profilePicture = "images/profile.jpg"
 hidesidebar = true
 customCss = ["css/list-title.css"]
+contactFormAction = "https://formspree.io/f/xknapgob"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
@@ -42,10 +43,29 @@ url = "https://twitter.com/twit_aurora"
   identifier = "home"
   weight = 100
   url = "/"
+  
+  [[menu.main]]
+  name = "Portfolios"
+  weight = 300
+  identifier = "portfolios"
+  
+  [[menu.main]]
+  name = "My Portfolio"
+  weight = 310
+  identifier = "portfolio"
+  url = "/portfolio/"
+  parent = "portfolios"
+  
+  [[menu.main]]
+  name = "Milestones"
+  weight = 320
+  identifier = "milestones"
+  url = "/milestones/"
+  parent = "portfolios"
 
   [[menu.main]]
   name = "Stories"
-  weight = 300
+  weight = 400
   identifier = "stories"
   url = "/stories/"
 
@@ -55,8 +75,14 @@ url = "https://twitter.com/twit_aurora"
   identifier = "blog"
   url = "/blog/"
 
+  [[menu.main]]
+  name = "Modding"
+  weight = 600
+  identifier = "modding"
+  url = "/modding/"
+
     [[menu.main]]
   name = "About"
-  weight = 400
+  weight = 500
   identifier = "about"
   url = "https://nijika.de/"
