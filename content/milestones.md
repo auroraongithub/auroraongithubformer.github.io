@@ -1,9 +1,10 @@
----
-author: aurora
-title: milestones
-date: 2019-04-08
-description: Milestones
----
++++
+title = "Milestones"
+description = "My Milestones"
+date = "2023-04-08"
+aliases = ["milestones"]
+author = "aurora."
++++
 
 **osu! Milestones**
 
