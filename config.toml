@@ -75,12 +75,6 @@ url = "https://twitter.com/twit_aurora"
   identifier = "blog"
   url = "/blog/"
 
-  [[menu.main]]
-  name = "Modding"
-  weight = 600
-  identifier = "modding"
-  url = "/modding/"
-
     [[menu.main]]
   name = "About"
   weight = 500
