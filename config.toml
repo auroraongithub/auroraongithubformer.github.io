@@ -12,7 +12,6 @@ title = "aurora."
 author = "roraosu"
 description = "Scanlator, Gamer, Creator"
 profilePicture = "images/profile.jpg"
-hidesidebar = true
 customCss = ["css/list-title.css"]
 contactFormAction = "https://formspree.io/f/xknapgob"
 
